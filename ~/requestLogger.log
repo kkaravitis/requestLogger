@@ -1,0 +1,5 @@
+2019-09-01 19:26:51.440  INFO 6629 --- [main] c.k.r.RequestLoggerApplicationTests      : Starting RequestLoggerApplicationTests on kostas-HP-250-G5-Notebook-PC with PID 6629 (started by kostas in /home/kostas/java/giannoula/requestLogger)
+2019-09-01 19:26:51.442  INFO 6629 --- [main] c.k.r.RequestLoggerApplicationTests      : No active profile set, falling back to default profiles: default
+2019-09-01 19:26:53.068  INFO 6629 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-01 19:26:53.342  INFO 6629 --- [main] c.k.r.RequestLoggerApplicationTests      : Started RequestLoggerApplicationTests in 2.21 seconds (JVM running for 3.0)
+2019-09-01 19:26:53.614  INFO 6629 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
