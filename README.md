@@ -5,7 +5,7 @@ Spring Boot application for logging all the headers of client request and client
 jdk 8 or later
 
 ## Usage
-- Get the release requestLogger-0.0.1-SNAPSHOT.jar from the releases tab.
+- Get the release requestLogger-0.0.1-SNAPSHOT.jar from the release tab.
 - Open a terminal, command line inside the folder which includes the jar you downloaded during the previous step and run 
 
 `java -jar requestLogger-0.0.1-SNAPSHOT.jar --logging.file=/~/request-logger.log`
