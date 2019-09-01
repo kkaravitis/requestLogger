@@ -15,3 +15,7 @@ where --loging.file property is the path of your logging file. I use linux and m
 For windows should be something like C:\users\\[username]\
 
 After application startup open your browser and by browsing to http://localhost:8080 you will see your request details to be logged on your logging.file.
+
+In case you want to change the default 8080 port run the application with server.port property changed with your port, for example if you want to run the application on port 8888, run the following command:
+
+`java -jar requestLogger-0.0.1.jar --logging.file=[path to logging file] --server.port=8888`
